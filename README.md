@@ -101,7 +101,7 @@ Key design principles:
 | **OCR for uploaded replies** | **Tesseract** (with Indic language packs), optional vision-language model for hard scans | Apache 2.0 |
 | **Constrained structured output** | **Pydantic** schemas with JSON-guided decoding | MIT |
 
-*"Open-weight" and "open-source" differ: we prefer permissively licensed weights and will state the exact licence of each model we finally ship.*
+
 
 ---
 
@@ -146,7 +146,7 @@ AI is **not a decoration**. It performs five distinct jobs that rules alone cann
 
 # 10. System Architecture
 
-*(The flowchart below will render as a diagram on GitHub and other Markdown-compatible platforms)*
+
 
 ```mermaid
 flowchart TD
@@ -202,7 +202,7 @@ flowchart TD
 
 # 12. Data / Information Flow
 
-*(The sequence diagram below will render correctly on GitHub)*
+
 
 ```mermaid
 sequenceDiagram
@@ -243,7 +243,7 @@ sequenceDiagram
 
 # 13. Agentic Workflow
 
-*(The state diagram below outlines the logical flow of our agents)*
+
 
 ```mermaid
 stateDiagram-v2
@@ -302,7 +302,7 @@ Loops are **bounded** (maximum 2 revision cycles) to guarantee termination and p
 
 # 15. Expected Features
 
-![Demo Image Placeholder](https://via.placeholder.com/800x400/E2E8F0/334155?text=Demonstration+GIF+or+Screenshot+Goes+Here)
+
 
 **Must-have (core demo)**
 - Problem-to-RTI wizard (text input; Hindi, Marathi, English)
