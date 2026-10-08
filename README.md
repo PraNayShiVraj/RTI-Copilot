@@ -424,8 +424,9 @@ At the end of the final hackathon, we will deliver:
 
 | Name | Role |
 |---|---|
-| [Name] | [Role] |
-| [Name] | [Role] |
-| [Name] | [Role] |
+| [Pranay] | [Development] |
+| [Tilak] | [Development] |
+| [Vismay] | [R&D] |
+| [Prashil] | [R&D] |
 
 The project will be released under the **Apache 2.0 License**.
