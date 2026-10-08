@@ -7,7 +7,7 @@
 
 > Hacktoberfest | Open Source AI Hackathon, Qualifier Round submission
 >
-> Team: **[Team Name]** | Members: **[Names]**
+> Team: **Bug Reapers** | Members: **[Tilak][Pranay][Vismay][Prashil]**
 
 > ⚠️ RTI Copilot is an information and drafting tool, **not a lawyer**. It never files anything on a user's behalf, and every output is reviewed by the user before use.
 
